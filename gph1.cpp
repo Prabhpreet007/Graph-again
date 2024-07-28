@@ -5,7 +5,7 @@
 using namespace std;
 
 // UNDIRECTED
-// O(2E)
+//T.C= O(2E)
 
 // int main(){
 // int n,m;
