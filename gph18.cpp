@@ -1,4 +1,4 @@
-// Topological sort (GFG)
+// Topological sort (GFG) DFS
 
 
 	void dfs(int i,int *vis,stack<int>& st,vector<int> *adj){
