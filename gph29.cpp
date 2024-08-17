@@ -1,4 +1,4 @@
-// DIJKSTRA ALGORITHM (GFG)
+// DIJKSTRA ALGORITHM (GFG) (min heap)
 
     vector <int> dijkstra(int V, vector<vector<int>> adj[], int S)
     {
