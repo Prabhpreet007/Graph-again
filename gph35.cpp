@@ -1,5 +1,6 @@
 // Minimum Multiplications to reach End(GFG)
-// 
+// O(100000*N) in worst case
+// here N is length of array 
 
     int minimumMultiplications(vector<int>& arr, int start, int end) {
         

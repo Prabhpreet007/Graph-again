@@ -1,4 +1,5 @@
 // DIJKSTRA ALGORITHM (GFG) (min heap)
+// O(V logE)
 
     vector <int> dijkstra(int V, vector<vector<int>> adj[], int S)
     {
