@@ -1,3 +1,4 @@
+//Prim's algorithm (used to find minimum spanning tree)
 // Minimum Spanning Tree(GFG)
 
 // T.C=O(E log E)
@@ -27,9 +28,7 @@ int spanningTree(int V, vector<vector<int>> adj[])
                 if(!vis[nNode]){
                     pq.push({nWt,nNode});
                 }
-            }
-            
-            
+            }  
         }
         
         
