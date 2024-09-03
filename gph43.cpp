@@ -2,6 +2,7 @@
 
 // Minimum Spanning Tree(GFG)
 
+// T.C = O(ElogE)+O(Eα(V))
 
 
     class DisjointSet{
