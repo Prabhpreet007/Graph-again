@@ -137,6 +137,7 @@ public:
 
         // Step 2: Mark roots of all islands in grid2
         unordered_map<int, bool> islandValid;
+        
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (grid2[i][j] == 1) {
