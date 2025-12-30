@@ -46,3 +46,5 @@ public:
         return cnt[n - 1] % mod;
     }
 };
+
+//modulo sirf cnt pe hoga dist pe ni
